@@ -1,24 +1,34 @@
 # Machine-Learning
+_______________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________
 
 This repo showcases my ML models
+_______________________________________________________________________________________________________________________________
 
-1. * Diabetes prediction
+1. Diabetes prediction
 
 * Dataset: diabetes.csv
 * Algorithm: Logistic Regression, Support Vector Classifier, Decision Tree, Random Forest
+_______________________________________________________________________________________________________________________________
    
 
-2. * Digit prediction 
+2. Digit prediction 
 * Dataset: MNIST
 * Algorithm: Logitic Regression, Support Vector Classifier
+_______________________________________________________________________________________________________________________________
 
 
-3. * Species prediction 
+3. Species prediction 
 * Dataset: Iris
 * Algorithm: Naive Bayes
+_______________________________________________________________________________________________________________________________
 
    
-4.  * Car evaluation
+4.  Car evaluation
 * Dataset: car.csv
 * Algorithm: Logistic Regression, Support Vector Classifier, Decision Tree, Random Forest, Naive Bayes, Gradient Boost, XGboost
+_______________________________________________________________________________________________________________________________
+
+5. Life expectancy
+_______________________________________________________________________________________________________________________________
    
